@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TALLER-2.2</string>
+    <string name="enumere_la_tarea_que_desea_guardar">ENUMERE LA TAREA QUE DESEA GUARDAR</string>
+    <string name="digite_la_tarea_que_desea_guardar">DIGITE LA TAREA QUE DESEA GUARDAR</string>
+    <string name="agregar">AGREGAR</string>
+    <string name="buscar">Buscar</string>
+    <string name="eliminar">Eliminar</string>
+</resources>
